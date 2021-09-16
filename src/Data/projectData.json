@@ -1,0 +1,19 @@
+{
+    "projects":
+    [
+            {
+                "projectId":"1",
+                "projectName":"E-Commerce",
+                "projectDescription":"online shopping platform",
+                "task":
+                [
+                    {
+                        "taskId":"11",
+                        "taskName":"navBar",
+                        "taskDescription":"navbar with funcationalities with theme color",
+                        "allocateTo":"developer"
+                    }
+                ]
+            }
+    ]
+}
